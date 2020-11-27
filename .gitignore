@@ -9,3 +9,5 @@ desktop.ini
 ._*
 
 node_modules/
+
+.env
